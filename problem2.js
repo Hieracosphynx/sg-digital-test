@@ -1,3 +1,7 @@
+/**
+ * Type in console to run: node problem2
+ */
+
 class Student {
 	constructor() {
 		this.name;

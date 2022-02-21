@@ -1,10 +1,5 @@
 /**
- * If (n % 3 === 0) {
- *  console.log('Tri');
- * }
- * If(n % 5 === 0) {
- *  console.log('Max');
- * }
+ * Type in console to run: node problem1
  */
 
 const divide = (number, divider) => {
